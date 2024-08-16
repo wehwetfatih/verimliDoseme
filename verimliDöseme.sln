@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "verimliDöseme", "verimliDöseme.csproj", "{778BA38D-E35F-47D6-9FB6-9E97A098A81F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{778BA38D-E35F-47D6-9FB6-9E97A098A81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778BA38D-E35F-47D6-9FB6-9E97A098A81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778BA38D-E35F-47D6-9FB6-9E97A098A81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778BA38D-E35F-47D6-9FB6-9E97A098A81F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D094D2E-D3B8-4929-B9C3-10D59E243B3E}
+	EndGlobalSection
+EndGlobal
